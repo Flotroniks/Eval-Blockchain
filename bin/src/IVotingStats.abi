@@ -1,0 +1,1 @@
+[{"inputs":[],"name":"getGenderStats","outputs":[{"internalType":"uint256","name":"malePercent","type":"uint256"},{"internalType":"uint256","name":"femalePercent","type":"uint256"}],"stateMutability":"view","type":"function"}]
